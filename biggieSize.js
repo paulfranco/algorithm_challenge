@@ -1,3 +1,5 @@
+// Chapter 1 Fundamentals
+// Page 59
 // Biggie Size
 // Given an array. Write a function that changes all positive numbers in the array to the string "big". 
 
